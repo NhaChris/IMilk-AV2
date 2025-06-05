@@ -1,0 +1,79 @@
+
+<mxfile host="app.diagrams.net">
+  <diagram name="Diagrama de Classes">
+    <mxGraphModel dx="1500" dy="1000" grid="1" gridSize="10" guides="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <mxCell id="2" value="Usuario
+- id
+- nome
+- email
+- senha
+- telefone" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="120" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="3" value="MaeDoadora
+- quantidadeDisponivel" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="160" height="80" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="4" value="BancoDeLeite
+- nomeInstituicao" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="160" height="80" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="5" value="Motorista
+- placaVeiculo" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="6" value="OfertaLeite
+- id
+- dataDisponibilidade
+- quantidade
+- status" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="100" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="7" value="Solicitacao
+- id
+- dataSolicitacao
+- status" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="160" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="8" value="Coleta
+- id
+- dataColeta
+- status" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="160" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="9" value="Mensagem
+- id
+- conteudo
+- dataEnvio" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="160" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="10" value="Relatorio
+- id
+- dataGeracao
+- volumeColetado" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="160" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="11" value="Campanha
+- id
+- titulo
+- descricao
+- metaVolume" style="swimlane" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="160" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
