@@ -67,7 +67,7 @@ Este caso de uso descreve o fluxo para que um novo usuário (doadora ou institui
 ---
 
 ## 🎯 Diagrama de Caso de Uso
-@startuml
+```@startuml
 left to right direction
 skinparam actorStyle awesome
 
