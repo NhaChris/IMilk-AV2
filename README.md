@@ -29,11 +29,11 @@ O **iMilk** é um sistema de doação e logística de leite materno que funciona
 ---
 
 ## 📁 Estrutura dos Arquivos
--descricao/ → Instruções da atividade e critérios de avaliação
--requisitos.md → Requisitos funcionais, não funcionais e regras de negócio
--modelos/ → Diagramas UML (casos de uso, classes, atividades, estados)
--autoavaliacao.md → Reflexão geral e desempenho individual por integrante
--README.md → Descrição geral e estrutura do sistema (este arquivo)
+- [descricao/](./descricao/readme.md): Descrição da atividade e elementos básicos que serão avaliados.
+- [requisitos.md](requisitos.md): Lista de requisitos funcionais e não funcionais.
+- [modelos/](./modelos/readme.md): Diagramas UML utilizados (caso de uso, atividades, classes, estados).
+- [autoavaliacao.md](./descricao/autoavaliacao.md): Reflexão individual ou do grupo sobre o projeto.
+- [requisitos.md](./requisitos.md): Detalhe dos requisitos dos sistema.
 
 ---
 
