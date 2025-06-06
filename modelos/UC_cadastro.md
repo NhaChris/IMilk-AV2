@@ -66,6 +66,38 @@ Este caso de uso descreve o fluxo para que um novo usuário (doadora ou institui
 
 ---
 
+## 🎯 Diagrama de Caso de Uso
+@startuml
+left to right direction
+skinparam actorStyle awesome
+
+actor "Usuário não autenticado" as UA
+actor "Sistema" as S
+
+usecase "Acessar tela de cadastro" as UC1
+usecase "Selecionar tipo de perfil" as UC2
+usecase "Preencher dados pessoais" as UC3
+usecase "Preencher dados adicionais (perfil específico)" as UC4
+usecase "Validar informações" as UC5
+usecase "Enviar confirmação por e-mail" as UC6
+usecase "Cadastrar usuário" as UC7
+
+UA --> UC1
+UC1 --> UC2
+UC2 --> UC3
+UC2 --> UC4
+UC3 --> UC5
+UC4 --> UC5
+UC5 --> UC7
+UC7 --> UC6
+S --> UC5
+S --> UC6
+
+@enduml
+
+
+---
+
 ## 📌 Observações
 - No futuro, poderá ser adicionado login via redes sociais.
 - A integração com bancos de dados de saúde (como o SUS) pode ser avaliada para validação de doadoras.
