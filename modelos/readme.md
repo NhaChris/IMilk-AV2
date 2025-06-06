@@ -4,7 +4,7 @@
 
 > Diagrama com visão geral do sistema
 
-![Diagrama de Visão Geral](modelos/Casos-de-uso.png)
+![Diagrama de Visão Geral](./Casos de uso.png)
 
 ## Casos de Uso
 
