@@ -8,7 +8,7 @@ Este caso de uso descreve o fluxo para que um novo usuário (doadora ou institui
 ---
 
 ## 👥 Atores
-- **Usuário não autenticado:** pessoa física (mãe doadora) ou representante de uma instituição.
+- **Usuário não autenticado:** pessoa física (mãe doadora), agente logístico ou representante de uma instituição.
 - **Sistema:** aplicativo de doação de leite materno.
 
 ---
