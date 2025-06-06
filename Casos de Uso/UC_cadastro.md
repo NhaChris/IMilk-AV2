@@ -23,7 +23,7 @@ Este caso de uso descreve o fluxo para que um novo usuário (doadora ou institui
 ## 🔁 Fluxo Principal
 1. O usuário acessa a tela inicial do aplicativo.
 2. Seleciona a opção "Cadastrar-se".
-3. Escolhe o tipo de perfil: Doadora ou Instituição.
+3. Escolhe o tipo de perfil: Doadora, Instituição ou Agente de Coleta.
 4. Preenche os campos obrigatórios:
    - Nome completo
    - CPF (ou CNPJ para instituições)
@@ -36,9 +36,10 @@ Este caso de uso descreve o fluxo para que um novo usuário (doadora ou institui
    - Período de amamentação
    - Atestado de saúde atualizado
    - Tipo sanguíneo (opcional)
-6. O sistema valida os dados preenchidos.
-7. Caso os dados estejam corretos, o sistema salva as informações no banco de dados e envia um e-mail de confirmação.
-8. O usuário recebe uma mensagem de sucesso e pode fazer login.
+6. (Para Agente Logísticos) Informa código providenciado por Instituição já cadastrada
+7. O sistema valida os dados preenchidos.
+8. Caso os dados estejam corretos, o sistema salva as informações no banco de dados e envia um e-mail de confirmação.
+9. O usuário recebe uma mensagem de sucesso e pode fazer login.
 
 ---
 
