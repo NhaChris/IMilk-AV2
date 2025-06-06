@@ -93,8 +93,8 @@ UC7 --> UC6
 S --> UC5
 S --> UC6
 
-@enduml```
-
+@enduml
+```
 ---
 
 ## 📌 Observações
