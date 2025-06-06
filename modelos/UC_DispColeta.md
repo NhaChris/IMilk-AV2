@@ -62,6 +62,39 @@ Este caso de uso descreve o fluxo pelo qual uma usuária com perfil de doadora i
 - A coleta deve ocorrer dentro da janela de validade do leite (segundo critérios da Anvisa ou banco de leite parceiro).
 
 ---
+## 🎯 Diagrama de Caso de Uso
+```@startuml
+left to right direction
+skinparam actorStyle awesome
+
+actor "Doadora Autenticada" as D
+actor "Sistema" as S
+actor "Instituição Coletora" as I
+
+usecase "Acessar área logada" as UC1
+usecase "Oferecer leite para coleta" as UC2
+usecase "Preencher informações da doação" as UC3
+usecase "Confirmar envio da solicitação" as UC4
+usecase "Registrar doação no sistema" as UC5
+usecase "Notificar instituições coletoras" as UC6
+usecase "Receber agendamento ou contato" as UC7
+usecase "Notificar doadora com detalhes" as UC8
+
+D --> UC1
+UC1 --> UC2
+UC2 --> UC3
+UC3 --> UC4
+UC4 --> UC5
+UC5 --> UC6
+I --> UC7
+UC6 --> I
+UC7 --> UC8
+UC8 --> D
+
+@enduml
+```
+
+---
 
 ## 📌 Observações
 - Futuros recursos podem incluir agendamento via calendário integrado.
