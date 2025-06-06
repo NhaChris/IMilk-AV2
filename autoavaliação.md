@@ -23,3 +23,17 @@ Responsável pela modelagem dos diagramas de Classes e de Estados.
 
 **Nota atribuída:** 10/10
 
+
+### Christyan
+Responsável pelos descritivos de casos de uso.
+
+**Atividades realizadas:**
+- Análise dos diagramas de caso de uso, escrevendo assim os descritivos.
+- Participação nas discussões para confecção dos requisitos e funcionamento do sistema
+
+**Autoavaliação:**
+- Apesar do cronograma da equipe não se encaixar sempre por conta das individualidades de cada membro, busquei cumprir com excelência as tarefas a mim atribuidas, bem como auxiliar com as tarefas de meus colegas
+- No geral, reconheço que de um ponto de vista externo minha entrega pode parecer abaixo do que se espera, porém sempre entreguei o máximo no que estava dentro daquilo que me era possível
+
+**Nota atribuída:** 7/10
+
