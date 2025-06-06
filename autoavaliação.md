@@ -37,3 +37,19 @@ Responsável pelos descritivos de casos de uso.
 
 **Nota atribuída:** 7/10
 
+### Aline 
+Responsável pela elaboração do Diagrama de Casos de Uso.
+
+**Atividades realizadas:**
+- Criação e representação gráfica do Diagrama de Casos de Uso, contemplando os atores envolvidos.
+- Participação nas discussões sobre os fluxos do sistema e alinhamento com os demais diagramas.
+  
+**Autoavaliação:**
+- Embora tenha enfrentado desafios durante o projeto, como equilibrar as responsabilidades pessoais, as exigências acadêmicas e o tempo disponível para o trabalho em equipe, procurei desempenhar as tarefas designadas a mim com empenho.
+- Enfrentei desafios específicos ao representar de maneira precisa os vínculos no diagrama, mas me empenhei em entender melhor os conceitos e fazer as correções necessárias.
+- Creio que, apesar dos desafios, conseguimos elaborar um trabalho consistente que reflete adequadamente os requisitos propostos para o sistema.
+
+**Nota atribuída:** 8/10
+
+
+
