@@ -1,0 +1,25 @@
+ Diagrama de Estados
+Para um Pedido de Coleta:
+
+Estado Inicial: Criado
+
+→ Aguardando coleta
+
+→ Em transporte
+
+→ Entregue
+
+→ Processado
+
+
+[Criado]
+   ↓
+[Aguardando coleta]
+   ↓
+[Em transporte]
+   ↓
+[Entregue]
+   ↓
+[Processado]
+
+
