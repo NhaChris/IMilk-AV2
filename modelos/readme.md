@@ -8,9 +8,6 @@
 
 ## Casos de Uso
 
->  Para cada item, apresentar: Nome, Atores, Fluxo principal, Fluxo alternativo, Pré-condições e Pós-condições, etc. 
-
-
 | Nome                                  | Descrição breve                    | 
 | ------------------------------------- | ---------------------------------- | 
 | [Realizar Cadastro](./UC_cadastro.md) | Cadastra novos usuários no sistema |
@@ -31,3 +28,10 @@
 | [Cadastro](./DE_cadastro.png)       | Status do processo de cadastro |
 | [Doação de Leite](./DE_doacao.png)  | Status do processo de doação   |
 
+## 🔹 Diagrama de Atividades
+
+| Nome                                          | Descrição breve                   |
+| --------------------------------------------- | --------------------------------- |
+| [Cadastro](./AT_cadastro.png)                 | Atividade de cadastro de usuário  |
+| [Disponibilizar coleta](./AT_DispColeta.png)  | Processo de doação de leite       |
+| [Solicitar Coleta](./AT_SolColeta.png)        | Processo de solicitação de coleta |
