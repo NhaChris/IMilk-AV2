@@ -51,28 +51,21 @@ Responsável pela elaboração do Diagrama de Casos de Uso.
 
 **Nota atribuída:** 8/10
 
-###Dennis Souto
+### Dennis Souto  
 Responsável pela concepção inicial do projeto e documentação base.
 
 **Atividades realizadas:**
-
--Idealização e estruturação conceitual da plataforma iMilk, com foco em facilitar a doação de leite materno.
-
--Organização e preparação dos dados para a criação dos Casos de Uso, servindo como base para os demais diagramas.
-
--Criação da estrutura inicial dos diagramas utilizados no projeto.
-
--Elaboração do arquivo README.md, com explicações claras sobre o propósito, funcionalidades e estrutura do sistema.
-
--Criação do arquivo requisitos.md, estruturando os requisitos com base nos dados ajustados e nas contribuições dos demais integrantes do grupo.
-
--Redação dos requisitos iniciais, posteriormente ajustados conforme evolução do projeto.
+- Idealização e estruturação conceitual da plataforma *iMilk*, com foco em facilitar a doação de leite materno.
+- Organização e preparação dos dados para a criação dos Casos de Uso, servindo como base para os demais diagramas.
+- Criação da estrutura inicial dos diagramas utilizados no projeto.
+- Elaboração do arquivo `README.md`, com explicações claras sobre o propósito, funcionalidades e estrutura do sistema.
+- Criação do arquivo `requisitos.md`, estruturando os requisitos com base nos dados ajustados e nas contribuições dos demais integrantes do grupo.
+- Redação dos requisitos iniciais, posteriormente ajustados conforme a evolução do projeto.
 
 **Autoavaliação:**
-
--Acredito ter contribuído de maneira significativa para a base do projeto, assumindo responsabilidades fundamentais na fase de concepção e documentação. 
--Apesar da minha contribuição não estar refletida em muitos commits diretos devido à divisão de tarefas específicas entre os integrantes , participei ativamente na sustentação teórica e organizacional do sistema.
--Reconheço que minha autoavaliação foi submetida fora do prazo estipulado, mas creio que meu esforço, envolvimento e dedicação ao projeto justificam a nota atribuída.]
+- Acredito ter contribuído de maneira significativa para a base do projeto, assumindo responsabilidades fundamentais na fase de concepção e documentação.  
+- Apesar da minha contribuição não estar refletida em muitos *commits* diretos, devido à divisão de tarefas específicas entre os integrantes, participei ativamente na sustentação teórica e organizacional do sistema.  
+- Reconheço que minha autoavaliação foi submetida fora do prazo estipulado, mas creio que meu esforço, envolvimento e dedicação ao projeto justificam a nota atribuída.
 
 **Nota atribuída:** 9/10
 
