@@ -24,10 +24,10 @@
 
 ## 🔹 Diagrama de Estados
 
-> Mostra os estados possíveis de cada entidade [ex: login] e as transições entre eles.
+> Mostra os estados possíveis de cada entidade e as transições entre eles.
 
-| Nome                            | Finalidade / Obs  |
-| ------------------------------- | ----------------- |
-| [Status Usuário](./DE_login.md) | Status do usuário |
-| A2                              | B2                |
-| A3                              | B3                |
+| Nome                                | Finalidade / Obs               |
+| ----------------------------------- | ----------------------------   |
+| [Cadastro](./DE_cadastro.png)       | Status do processo de cadastro |
+| [Doação de Leite](./DE_doacao.png)  | Status do processo de doação   |
+
