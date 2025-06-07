@@ -16,8 +16,7 @@
 
 ## 🔹 Diagrama de Classes
 
-### Módulo de Usuário
-
+![Diagrama de Classes](./Diagrama_de_classes.png)
 
 ## 🔹 Diagrama de Estados
 
