@@ -48,7 +48,5 @@ O **iMilk** é um sistema de doação e logística de leite materno que funciona
 
 ## 👥 Integrantes
 
-- Dennis Souto Oliveira Fernandes  
-- Aline Ferreira dos Santos  
 - Gilberto Vieira Barreto  
 - Christyan Marcos Silva dos Santos  
