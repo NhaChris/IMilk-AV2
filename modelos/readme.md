@@ -26,6 +26,7 @@
 | ----------------------------------- | ----------------------------   |
 | [Cadastro](./DE_cadastro.png)       | Status do processo de cadastro |
 | [Doação de Leite](./DE_doacao.png)  | Status do processo de doação   |
+| [Estados Críticos](./Diagramas_de_estado.png)  | Status do processo de doação   |
 
 ## 🔹 Diagrama de Atividades
 
