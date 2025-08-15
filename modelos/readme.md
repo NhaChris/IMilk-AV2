@@ -39,3 +39,7 @@
 ## Diagrama de Componentes 
 
 | [Diagrama](./Diagrama-de-componentes.png) |
+
+## Diagrama de Arquitetura
+
+[Diagrama](./Diagrama-de-arquitetura.png)
