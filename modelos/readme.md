@@ -43,3 +43,9 @@
 ## Diagrama de Arquitetura
 
 [Diagrama](./Diagrama-de-arquitetura.png)
+
+## Diagramas de Sequência 
+
+[Validação](./Validação.png)
+[Coleta](./Coleta.png)
+[Bloqueio](./Bloqueio.png)
