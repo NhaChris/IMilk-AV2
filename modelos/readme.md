@@ -35,3 +35,7 @@
 | [Cadastro](./AT_cadastro.png)                 | Atividade de cadastro de usuário  |
 | [Disponibilizar coleta](./AT_DispColeta.png)  | Processo de doação de leite       |
 | [Solicitar Coleta](./AT_SolColeta.png)        | Processo de solicitação de coleta |
+
+## Diagrama de Componentes 
+
+| [Diagrama](./Diagrama-de-componentes.png) |
